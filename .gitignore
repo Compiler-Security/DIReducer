@@ -1,0 +1,11 @@
+# Compile Product
+/build/*
+
+# The Library of SubModule 
+/.cache/*
+
+# Directory for Test
+/example/output/*
+
+# config
+/.vscode/*
